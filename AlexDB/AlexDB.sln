@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexDB", "AlexDB\AlexDB.csproj", "{ABAD1479-44C8-4453-A1FD-4CFF8BD719BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAD1479-44C8-4453-A1FD-4CFF8BD719BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAD1479-44C8-4453-A1FD-4CFF8BD719BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAD1479-44C8-4453-A1FD-4CFF8BD719BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAD1479-44C8-4453-A1FD-4CFF8BD719BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9BD730-28F2-43F8-AA9C-E32DAA4C788E}
+	EndGlobalSection
+EndGlobal
